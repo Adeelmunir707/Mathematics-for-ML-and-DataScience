@@ -1,4 +1,4 @@
-# Mathematics-for-Machinr Learning-and-DataScience
+# Mathematics-for-Machine Learning-and-DataScience
 
 Welcome to the Machine Learning Courses repository! This repository contains course content, including lectures, labs, and assignments, for three fundamental topics in machine learning:
 
